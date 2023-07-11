@@ -1,4 +1,4 @@
-# kutipan-muslim  Muslim Quotes
+# kutipan-muslim (Muslim Quotes)
 API Berisi Daftar Kutipan Muslim
 
 URL : https://speizify.com/api/quotes
